@@ -1,0 +1,3 @@
+pip install periodictable
+pip install colorama
+pip install fuzzywuzzy
